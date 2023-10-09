@@ -1,0 +1,30 @@
+{
+  "name": "checkers-ai",
+  "version": "1.0.0",
+  "description": "Checkers ai",
+  "main": "src/index.ts",
+  "files": [
+    "src/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "checkers",
+    "ai",
+    "game",
+    "undefinedofficial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undefinedofficial/checkers-ai.git"
+  },
+  "devDependencies": {
+    "checkers-ts": "https://github.com/undefinedofficial/checkers-ts.git"
+  },
+  "peerDependencies": {
+    "checkers-ts": "https://github.com/undefinedofficial/checkers-ts.git"
+  },
+  "author": "undefinedofficial",
+  "license": "ISC"
+}
