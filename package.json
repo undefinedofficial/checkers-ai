@@ -22,8 +22,7 @@
   "devDependencies": {
     "checkers-ts": "https://github.com/undefinedofficial/checkers-ts.git"
   },
-  "peerDependencies": {
-    "checkers-ts": "https://github.com/undefinedofficial/checkers-ts.git"
+  "peerDependencies": { 
   },
   "author": "undefinedofficial",
   "license": "ISC"
